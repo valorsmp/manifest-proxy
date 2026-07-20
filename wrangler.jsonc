@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "valorsmp-manifest-proxy",
+  "name": "manifest-proxy",
   "main": "src/index.js",
   "compatibility_date": "2026-07-20"
 }
